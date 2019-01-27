@@ -1,0 +1,2 @@
+print(Goodbuye!);
+print(Another goodbuye!);
